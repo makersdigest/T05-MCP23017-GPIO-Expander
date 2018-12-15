@@ -1,5 +1,5 @@
-# Maker's Digest - [Episode Name]
-### [Description of Episode]
+# Maker's Digest - DHT11 & DHT22 Humidity and Temperature Sensors
+### How to connect DHT11 & DHT22 Humidity and Temperature Sensors.
 
 This repository is companion to the video below:
 
