@@ -2,6 +2,6 @@
 ## Raspberry Pi Example
 
 ### Pinout
-[Raspberry Pi Pinout](raspberrypi-pinout-GH.jpg)
+![Raspberry Pi Pinout](raspberrypi-pinout-GH.jpg)
 
 ### Installation & Configuration
