@@ -1,5 +1,5 @@
-# Maker's Digest - <TITLE>
-### <DESC>
+# Maker's Digest - MCP23017 GPIO Exapnder
+### Makers Digest examples for the MCP23017 GPIO Expander
 
 This repository is companion to the video below:
 
