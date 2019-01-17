@@ -5,7 +5,6 @@
  #
  # Dont forget to install the libraries! See README.md for details.
 ##
-import sys                      # Import sys module
 from time import sleep          # Import sleep from time
 import Adafruit_GPIO.MCP230xx as MCP230XX # Import Adafruit MCP23017 Library
 
@@ -31,7 +30,7 @@ for x in range(0, 16):
 # Loop through all 16 GPIO to set high, then low.
 def main():
     for x in range(0, 16):
-        print "Flashing GPIO %d High then Low" % x
+        print "Flashing GPIO %d " % x
         mcp.output(x, 1)    # Set pin to HIGH (ON) (1)
         sleep(dly)
         mcp.output(x, 0)    # Set pin to LOW (OFF) (0)
